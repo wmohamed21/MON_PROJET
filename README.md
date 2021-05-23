@@ -1,2 +1,4 @@
 # MON_PROJET
-un pokedex affichant l'image et nom des pokemons
+Application mobile décrivons un pokédex avec différentes images de pokémon utilisant l'architecture MVVM.
+page d'acceuille représentant les différent pokemon
+<img src="" with="" height="" />
